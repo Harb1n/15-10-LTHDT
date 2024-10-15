@@ -1,0 +1,16 @@
+D:\code\code\QLDL HocSinh\QLDL HocSinh\bin\Debug\net6.0-windows\QLDL HocSinh.exe
+D:\code\code\QLDL HocSinh\QLDL HocSinh\bin\Debug\net6.0-windows\QLDL HocSinh.deps.json
+D:\code\code\QLDL HocSinh\QLDL HocSinh\bin\Debug\net6.0-windows\QLDL HocSinh.runtimeconfig.json
+D:\code\code\QLDL HocSinh\QLDL HocSinh\bin\Debug\net6.0-windows\QLDL HocSinh.dll
+D:\code\code\QLDL HocSinh\QLDL HocSinh\bin\Debug\net6.0-windows\QLDL HocSinh.pdb
+D:\code\code\QLDL HocSinh\QLDL HocSinh\obj\Debug\net6.0-windows\QLDL_HocSinh.QuanLyHocSinh.resources
+D:\code\code\QLDL HocSinh\QLDL HocSinh\obj\Debug\net6.0-windows\QLDL HocSinh.csproj.GenerateResource.cache
+D:\code\code\QLDL HocSinh\QLDL HocSinh\obj\Debug\net6.0-windows\QLDL HocSinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\code\QLDL HocSinh\QLDL HocSinh\obj\Debug\net6.0-windows\QLDL HocSinh.AssemblyInfoInputs.cache
+D:\code\code\QLDL HocSinh\QLDL HocSinh\obj\Debug\net6.0-windows\QLDL HocSinh.AssemblyInfo.cs
+D:\code\code\QLDL HocSinh\QLDL HocSinh\obj\Debug\net6.0-windows\QLDL HocSinh.csproj.CoreCompileInputs.cache
+D:\code\code\QLDL HocSinh\QLDL HocSinh\obj\Debug\net6.0-windows\QLDL HocSinh.dll
+D:\code\code\QLDL HocSinh\QLDL HocSinh\obj\Debug\net6.0-windows\refint\QLDL HocSinh.dll
+D:\code\code\QLDL HocSinh\QLDL HocSinh\obj\Debug\net6.0-windows\QLDL HocSinh.pdb
+D:\code\code\QLDL HocSinh\QLDL HocSinh\obj\Debug\net6.0-windows\QLDL HocSinh.genruntimeconfig.cache
+D:\code\code\QLDL HocSinh\QLDL HocSinh\obj\Debug\net6.0-windows\ref\QLDL HocSinh.dll
